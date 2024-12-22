@@ -1,6 +1,8 @@
 # Numerai
 Machine Learning Hedge Fond
 
+X：@VirtualHedge
+
 ![Numerai](https://numer.ai/homepage/img/Numerai-Logo-Side-Black.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://x.com/VirtualHedge)
