@@ -2,7 +2,7 @@
 Machine Learning Hedge Fond
 
 X：@VirtualHedge
-Pump：
+Pump：6SKgRXsPZqskhZbAKjQaU5GkmJbc87UBQvPN7gKPpump
 
 ![Numerai](https://numer.ai/homepage/img/Numerai-Logo-Side-Black.png)
 
