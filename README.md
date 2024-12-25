@@ -1,8 +1,8 @@
 # Numerai
 Machine Learning Hedge Fond
 
-X：@[VirtuaiHedge
-](https://x.com/VirtuaiHedge)
+X：@[Joyce_0z
+](https://x.com/Joyce_0z)
 Pump：
 
 ![Numerai](https://numer.ai/homepage/img/Numerai-Logo-Side-Black.png)
