@@ -1,7 +1,10 @@
 # Numerai
 Machine Learning Hedge Fond
 
-X：@[Joyce_0z
+By：@[VirtualHedge
+](https://x.com/VirtualHedge)
+
+By：@[Joyce_0z
 ](https://x.com/Joyce_0z)
 Pump：
 
