@@ -1,7 +1,7 @@
 # Numerai
 Machine Learning Hedge Fond
 
-By：@[VirtualHedge
+X：@[VirtualHedge
 ](https://x.com/VirtualHedge)
 
 By：@[Joyce_0z
